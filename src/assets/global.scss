@@ -1,0 +1,15 @@
+// 全局样式
+body,
+html,
+#app {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	min-width: 1366px;
+}
+.el-card__header {
+	padding: 0;
+}
+.charts_container {
+	padding: 0;
+}
